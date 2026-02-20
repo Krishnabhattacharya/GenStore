@@ -1,0 +1,15 @@
+{
+  "originHash" : "231e503b5403e7e0f047487b61c5ba5efc7b81cf7a1cc189096b7354afa2024c",
+  "pins" : [
+    {
+      "identity" : "toastswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/huynguyencong/ToastSwiftUI.git",
+      "state" : {
+        "revision" : "dd9421d487c7f932c39604fc04b3381e9176ef13",
+        "version" : "0.3.6"
+      }
+    }
+  ],
+  "version" : 3
+}
